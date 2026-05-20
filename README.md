@@ -1,53 +1,73 @@
 # 🏥 Auranexus Hospital Management System
 
-Auranexus Hospital Management System is a modern web-based application developed using HTML, CSS, and JavaScript to simplify and manage hospital operations efficiently.
+Auranexus Hospital Management System is a modern web-based healthcare management application developed using HTML, CSS, and JavaScript. The project is designed to simplify hospital operations with an interactive and user-friendly interface.
 
-The project provides a user-friendly interface for managing patients, doctors, appointments, billing, and medical records.
+The system includes appointment booking, blood bank management, AI chatbot support, SOS emergency access, doctor details, medical store management, and patient services.
 
 ---
 
 # 🚀 Features
 
-## 👨‍⚕️ Patient Management
-- Add patient details
-- Update patient information
-- View patient records
-- Manage patient history
-
----
-
-## 🩺 Doctor Management
-- Display doctor details
-- Manage specialization information
-- View doctor availability
+## 🏠 Welcome Page
+- Attractive landing page
+- Easy navigation to all modules
+- User-friendly interface
 
 ---
 
 ## 📅 Appointment Booking
-- Schedule appointments
-- Manage patient-doctor appointments
-- View appointment details
+- Book hospital appointments
+- Manage patient scheduling
+- Easy appointment access
 
 ---
 
-## 💳 Billing System
-- Generate bills
-- Display payment details
-- Manage treatment charges
+## 🩸 Blood Bank Management
+- Blood availability information
+- Emergency blood request support
+- Blood donor management interface
 
 ---
 
-## 📋 Medical Records
-- Store patient reports
-- View treatment history
-- Manage healthcare records
+## 🤖 AI Chatbot
+- Interactive healthcare chatbot
+- Provides instant assistance
+- Helps users with basic queries
 
 ---
 
-## 🔍 Search Functionality
-- Search patient records
-- Search doctor information
-- Quick record access
+## 📞 Contact Page
+- Hospital contact details
+- Support information
+- Communication section
+
+---
+
+## 📊 Dashboard
+- Centralized hospital dashboard
+- Quick access to all modules
+- Organized navigation system
+
+---
+
+## 👨‍⚕️ Doctor Management
+- Display doctor details
+- Department information
+- Doctor availability section
+
+---
+
+## 💊 Medical Store
+- Medicine information
+- Pharmacy management interface
+- Healthcare product section
+
+---
+
+## 🚨 SOS Emergency Support
+- Emergency assistance page
+- Quick emergency access
+- Safety and alert support system
 
 ---
 
@@ -64,10 +84,10 @@ The project provides a user-friendly interface for managing patients, doctors, a
 
 - Frontend Web Development
 - DOM Manipulation
-- Responsive UI Design
-- Form Validation
-- Interactive Dashboard
-- User-friendly Navigation
+- Responsive Design
+- Interactive UI Components
+- Navigation System
+- User-friendly Dashboard
 
 ---
 
@@ -76,10 +96,16 @@ The project provides a user-friendly interface for managing patients, doctors, a
 ```bash
 Auranexus-Hospital-Management/
 │
-├── index.html
-├── style.css
-├── script.js
 ├── assets/
+├── appointment.html
+├── bloodbank.html
+├── chatbot.html
+├── contact.html
+├── dashboard.html
+├── doctors.html
+├── medicalstore.html
+├── sos.html
+├── welcome.html
 ├── README.md
 ```
 
@@ -88,10 +114,10 @@ Auranexus-Hospital-Management/
 # 🎨 User Interface Features
 
 - Responsive Design
-- Modern Dashboard
-- Interactive Buttons
-- Smooth Navigation
-- Clean Layout
+- Clean User Interface
+- Interactive Pages
+- Modern Layout
+- Easy Navigation
 - Mobile Friendly Design
 
 ---
@@ -99,7 +125,7 @@ Auranexus-Hospital-Management/
 # ▶️ How to Run
 
 ## Step 1
-Download or clone the project
+Download or clone the repository
 
 ---
 
@@ -109,7 +135,7 @@ Open the project folder
 ---
 
 ## Step 3
-Run `index.html` in any browser
+Run `welcome.html` in any browser
 
 Supported Browsers:
 - Google Chrome
@@ -121,35 +147,39 @@ Supported Browsers:
 # 📋 Main Modules
 
 ```text
-1. Patient Management
-2. Doctor Management
+1. Welcome Page
+2. Dashboard
 3. Appointment Booking
-4. Billing System
-5. Medical Records
-6. Search System
+4. Blood Bank
+5. AI Chatbot
+6. Doctor Management
+7. Medical Store
+8. SOS Emergency Support
+9. Contact Page
 ```
 
 ---
 
 # 🔒 Advantages
 
-- Easy hospital data management
-- Simple and attractive interface
-- Fast access to patient records
-- Efficient appointment management
-- Responsive and accessible design
+- Simplifies hospital management
+- Easy access to healthcare services
+- Organized medical information
+- Emergency support accessibility
+- Modern and responsive interface
 
 ---
 
 # 🔮 Future Enhancements
 
-- AI-based Health Prediction
-- Online Consultation
-- Emergency SOS Support
+- AI Disease Prediction
+- Online Video Consultation
 - Database Integration
-- Login Authentication
-- Cloud Storage
-- Chatbot Assistance
+- Patient Login System
+- Online Payment Gateway
+- Ambulance Tracking
+- AI Health Assistant
+- Cloud Data Storage
 
 ---
 
@@ -163,11 +193,11 @@ Sri Krishna College of Engineering and Technology
 
 # ⭐ Project Purpose
 
-This project was developed to improve understanding of:
+This project was developed to improve knowledge in:
 - Frontend Web Development
-- Hospital Management Systems
-- JavaScript Functionality
+- Healthcare Management Systems
 - Responsive UI/UX Design
+- JavaScript Functionality
 - Real-world Web Application Development
 
 ---
